@@ -163,7 +163,8 @@
       { "id": "pan" },
       { "id": "chemistry_set", "hotkey": "h" },
       { "id": "electrolysis_kit" },
-      { "id": "water_purifier", "hotkey": "p" }
+      { "id": "water_purifier", "hotkey": "p" },
+      { "id": "dutch_oven" }
     ],
     "breaks_into": [
       { "item": "steel_lump", "count": [ 9, 18 ] },
