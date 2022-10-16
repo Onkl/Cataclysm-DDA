@@ -158,7 +158,8 @@
       [ [ "pan", 1 ] ],
       [ [ "water_faucet", 2 ] ],
       [ [ "chemistry_set", 1 ] ],
-      [ [ "electrolysis_kit", 1 ] ]
+      [ [ "electrolysis_kit", 1 ] ],
+	    [ [ "dutch_oven", 1 ] ]
     ]
   },
   {
